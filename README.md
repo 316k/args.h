@@ -9,7 +9,7 @@ Read `example.c` and `args.h` for examples.
 ## Example
 
 ```bash
-$ gcc example
+$ gcc example -o example
 $ ./example --string test-1 --decimal 250 -f 10 -s test-2 end of the options
 Initial argc=13
   str: test-1
