@@ -22,7 +22,7 @@ New args :
   1: of
   2: the
   3: options
-$ ./example --string test-1 --decimal 250 -f 10 -s test-2 end of the options
+$ ./example --test --string test-1 --decimal 250 -f 10 -s test-2 end of the options
 Initial argc=14
 ./example: wrong argument: --test
 ```
